@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "description": "Bootstrap responsive tabs.",
   "main": "dist/bootstrap-responsive-tabs.js",
-  "author": "Gabriel Tomescu <gabe@pushpulllabs.com>",
+  "author": "Gabriel Tomescu <gabe@pushpulllabs.com>"
 }
